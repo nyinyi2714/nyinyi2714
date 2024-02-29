@@ -20,7 +20,7 @@ Feel free to explore my repositories, where you'll find a mix of frontend and ba
 #### Latest Projects:
 
 - [Speak Mentor](https://github.com/nyinyi2714/SpeakMentor-React)
-- [Hotel Del Luna](https://github.com/nyinyi2714/hotel-del-luna-api)
+- [Hotel Del Luna](https://github.com/nyinyi2714/hotel-reservation-react)
 
 
 ### Let's Connect:
